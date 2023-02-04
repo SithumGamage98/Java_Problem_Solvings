@@ -12,9 +12,6 @@ Sample Output:
 ereht olleh
 You can loop through the char array, starting from the end, using arr.length to get the size of the array.
 
-
-
-
 /////////answeer-----------------
 public class Program
 {
@@ -26,14 +23,9 @@ public class Program
 		//your code goes here
 
 		for(int y=arr.length-1; y>=0; y--){
-
 			
 			System.out.println(arr[y]);
-
-
 		}
 
-		
-		
 	}
 }
